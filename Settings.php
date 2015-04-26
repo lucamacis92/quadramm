@@ -8,7 +8,7 @@
  class Settings {
 
     private static $appPath;
-    const debug = true;
+    const debug = false;
     
     
     public static $user = "root";
@@ -32,7 +32,7 @@
                     break;
                 case 'spano.sc.unica.it':
                     // configurazione pubblica
-                    self::$appPath = 'http://' . $_SERVER['HTTP_HOST'] . '/lucamacis/progetto/';
+                    self::$appPath = 'http://' . $_SERVER['HTTP_HOST'] . '/macisLuca/quadrammluca/';
                     break;
 
                 default:

@@ -11,8 +11,8 @@
     const debug = false;
     
     
-    public static $user = "root";
-    public static $password = "root";
+    public static $user = "macisLuca";
+    public static $password = "sogliola173";
     public static $host = "localhost";
     public static $db = "LucaMacis";
 

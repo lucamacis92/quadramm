@@ -14,7 +14,7 @@
     public static $user = "macisLuca";
     public static $password = "sogliola173";
     public static $host = "localhost";
-    public static $db = "LucaMacis";
+    public static $db = "amm14_macisLuca";
 
     /**
      * Restituisce il path relativo nel server corrente dell'applicazione

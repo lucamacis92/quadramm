@@ -3,7 +3,7 @@
 /**
  * Classe che contiene una lista di variabili di configurazione
  *
- * @author Davide Spano
+ * @author Luca Macis
  */
  class Settings {
 

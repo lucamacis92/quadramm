@@ -37,48 +37,6 @@ if($vd->getSottoPagina() == 'CercaAvanzato')
 				</div>
 				<div class="clear"></div>
 				<div id="input">
-					<div class="sx">
-						<input id="Nome" name="Nome" type="text" value="">
-						<div class="suggestion" id="suggerimentiNome">
-							<ul>
-							</ul>
-						</div>
-					</div>
-					<div class="sx">
-						<input id="Autore" name="Autore" type="text" value="">
-						<div class="suggestion" id="suggerimentiAutore">
-							<ul>
-							</ul>
-						</div>
-					</div>
-					<div class="sx">
-						<input id="Data" name="Data" type="text" value="">
-						<div class="suggestion" id="suggerimentiData">
-							<ul>
-							</ul>
-						</div>
-					</div>
-					<div class="sx">
-						<input id="Dimensione" name="Dimensione" type="text" value="">
-						<div class="suggestion" id="suggerimentiDimensione">
-							<ul>
-							</ul>
-						</div>
-					</div>
-					<div class="sx">
-						<input id="Tecnica" name="Tecnica" type="text" value="">
-						<div class="suggestion" id="suggerimentiTecnica">
-							<ul>
-							</ul>
-						</div>
-					</div>
-					<div class="sx">
-						<input id="Corrente" name="Corrente" type="text" value="">
-						<div class="suggestion" id="suggerimentiCorrente">
-							<ul>
-							</ul>
-						</div>
-					</div>
 					<div>
 					<input title="cerca" class="searchSubmit" type="submit" value="">
 					</div>

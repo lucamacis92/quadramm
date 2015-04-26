@@ -32,7 +32,7 @@
                     break;
                 case 'spano.sc.unica.it':
                     // configurazione pubblica
-                    self::$appPath = 'http://' . $_SERVER['HTTP_HOST'] . 'amm2014/macisLuca/quadrammluca/';
+                    self::$appPath = 'http://' . $_SERVER['HTTP_HOST'] . 'amm2014/macisLuca/';
                     break;
 
                 default:

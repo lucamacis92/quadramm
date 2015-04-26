@@ -1,0 +1,1 @@
+<img width="550" height="120" alt="logo" src="<?= Settings::getApplicationPath() ?>img/logo3.png">
